@@ -1,0 +1,45 @@
+/*
+Theme Name: NewsFrame
+Theme URI: http://www.edwardrjenkins.com/themes/newsframe
+Description: A Newspaper-styled theme for news websites. Supports article subtitles, image credits (via already styled captions), author bio pages. The latest post on the home page is styled with a larger headline and featured image to make it stand out.
+Author: Edward R. Jenkins
+Author URI: http://www.edwardrjenkins.com/
+Version: 2.2.2
+Tags: two-columns, one-column, right-sidebar, custom-background, featured-images, full-width-template, sticky-post, threaded-comments, front-page-post-form
+Text Domain: newsframe
+License: GNU General Public License v2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+/*
+Newsframe WordPress Theme, Copyright (C) 2013 Edward R. Jenkins, Cardigan Media
+This theme was framed with Zurb's Foundation Grid, released under the MIT license. You can learn
+more about Zurb and Foundation at http://foundation.zurb.com.
+Credits and major props to Automattic and the Twenty Twelve theme's
+handy responsive navigation menu, which is used in this theme, as well as the comment form.
+Thanks to WPTuts for a quick and painless custom logo uploader.
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+	
+--------------------------------------------------------------
+WARNING: (BEFORE YOU MAKE ANY CHANGES)
+--------------------------------------------------------------
+Please do not edit style.css or any other Theme files or 
+Templates directly. Customization will be lost, which will
+cause problems during updates. To add custom styles, use a child theme.
+Please read the NewsFrame documentation, available here:
+http://www.edwardrjenkins.com/themes/newsframe
+--------------------------------------------------------------
+*/
+/* =HTML5 Basics
+------------------------------------------------------------- */
+
+@import url('bootstrap/css/bootstrap.css');
+@import url("css/flat-ui.css');

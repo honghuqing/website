@@ -1,0 +1,49 @@
+==NewsFrame Changelog==
+=6/1/2014 - 2.2.2=
+-fixed video post format in archive templates
+-move post extras box up
+=5/30/2014 - 2.2.1=
+-fixed duplicate loop tag archive error
+=5/29/2014 - 2.2=
+-added NFPro Banner
+-fixed sticky/featured post bug
+-added logo upload
+-fixed post date bug
+-reduced headline font size
+-fixed widget borders
+-added post format support with responsive archive videos
+=03/27/2014 - 2.1=
+-fixed date/local time zone issue-adjusted styles for widget lists-added post meta to home page
+=10/11/2013 - 2.0.2=
+-Removed CC 404-page image
+=10/9/2013 - 2.0.1=
+-reduced max-width from 1160px to 1060px
+-changed site-wide font
+-added sidebar to home page and removed column posts
+-added featured video support-added metabox for subtitles and featured video
+-fixed child theme bug-added author box to author template
+-added featured video to single posts template-added tag option for featured posts management
+-added homepage widget area-added category posts widget
+=8/9/2013 - 1.9=
+-added thumbnails to index.php
+-added Blog Posts template page
+-added full width posts page.
+=4/25/2013 - 1.5=
+-Fixed copyright and validation issues
+-Fixed translation variable issue
+=3/12/2013 - 1.3=
+-Added font icons for posts_nav
+-Ditched home sidebar
+-Switch home-page posts to two-column
+-Eliminated drop-caps for latest post
+-Clean up functions/scripts
+-Enlarged frame
+=3/2/2012 - 1.2=
+-Fixed wp-enqueue error
+-Added font icons
+-Added theme options pane
+=l2/15/2013 - 1.1=
+-Reframed with Foundation Grid
+-Fixed query_posts
+-Fixed  misc. issues
+=1/17/20131.0 - Initial Release=

@@ -1,0 +1,1 @@
+jQuery ("#submit").addClass ("button");
